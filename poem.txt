@@ -4,6 +4,7 @@ Puple
 Pink
 Green
 Orange
+Yellow
 Blue
 Red
 These are the color of the rainbow.
